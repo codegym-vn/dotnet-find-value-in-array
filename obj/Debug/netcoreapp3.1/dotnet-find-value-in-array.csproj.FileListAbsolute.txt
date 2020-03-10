@@ -1,0 +1,11 @@
+D:\CodeGym\Bai2\dotnet-find-value-in-array\bin\Debug\netcoreapp3.1\dotnet-find-value-in-array.exe
+D:\CodeGym\Bai2\dotnet-find-value-in-array\bin\Debug\netcoreapp3.1\dotnet-find-value-in-array.deps.json
+D:\CodeGym\Bai2\dotnet-find-value-in-array\bin\Debug\netcoreapp3.1\dotnet-find-value-in-array.runtimeconfig.json
+D:\CodeGym\Bai2\dotnet-find-value-in-array\bin\Debug\netcoreapp3.1\dotnet-find-value-in-array.runtimeconfig.dev.json
+D:\CodeGym\Bai2\dotnet-find-value-in-array\bin\Debug\netcoreapp3.1\dotnet-find-value-in-array.dll
+D:\CodeGym\Bai2\dotnet-find-value-in-array\bin\Debug\netcoreapp3.1\dotnet-find-value-in-array.pdb
+D:\CodeGym\Bai2\dotnet-find-value-in-array\obj\Debug\netcoreapp3.1\dotnet-find-value-in-array.csprojAssemblyReference.cache
+D:\CodeGym\Bai2\dotnet-find-value-in-array\obj\Debug\netcoreapp3.1\dotnet-find-value-in-array.AssemblyInfoInputs.cache
+D:\CodeGym\Bai2\dotnet-find-value-in-array\obj\Debug\netcoreapp3.1\dotnet-find-value-in-array.AssemblyInfo.cs
+D:\CodeGym\Bai2\dotnet-find-value-in-array\obj\Debug\netcoreapp3.1\dotnet-find-value-in-array.dll
+D:\CodeGym\Bai2\dotnet-find-value-in-array\obj\Debug\netcoreapp3.1\dotnet-find-value-in-array.pdb
